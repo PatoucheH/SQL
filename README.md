@@ -24,4 +24,11 @@ Same on Heidi SQL :
 
 ![alt text](assets/Heidi-ex2.png)
 
+### BONUS
+
+After, there are a series of exercises on the [site](https://sql.sh/exercices-sql).
+
+First, on a DB about cities and department of FRANCE.
+Second, on a DB about a series of clients and commands in a fictious company.
+
 #### Thanks you for read this README and look this repo !!!
